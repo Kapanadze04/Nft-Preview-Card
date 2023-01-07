@@ -45,3 +45,39 @@ body {
     line-height: 26px;
     color: #8BACD9;
 }
+
+.price,
+.date {
+    display: flex;
+}
+
+.price-date {
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.etherium {
+    margin-left: 8px;
+    height: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #00fff8;
+}
+
+.days {
+    margin-left: 8px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8BACD9;
+}
+
+.line {
+    border-bottom: 1px solid #2E405A;
+    width: 302px;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
