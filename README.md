@@ -1,4 +1,4 @@
-# nft-preview-card
+# Nft-Preview-Card
 
 ## Summary
 
