@@ -7,4 +7,4 @@
 
 ### Live Server
 
-- https://kapanadze04.github.io/nft-preview-card/
+- https://kapanadze04.github.io/Nft-Preview-Card/
